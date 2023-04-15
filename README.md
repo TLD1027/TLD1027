@@ -1,5 +1,7 @@
-![Metrics](https://metrics.lecoq.io/TLD1027?template=classic&fortune=1&achievements=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FShanghai)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLD1027&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/TLD1027?template=classic&fortune=1&achievements=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FShanghai)
+
 <!--
 **TLD1027/TLD1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
